@@ -39,9 +39,7 @@ You are expected to receive such demo result:
 
 
 ## Bonus
-You may want to check your alignmrnt tree in ```.fdrawtree``` and ```.c.fdrawgram``` files.
-You also might want to calculate Kendall correlation coefficient between Len and LD. 
-You can find results in Kendall_test.txt.
+You may want to variate the length of the arrow used in Kendall`s` correlation test. You can easily do it just uncommitted suitable lines in the R script. 
 
 ## Contact me
 
