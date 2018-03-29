@@ -15,6 +15,11 @@ Make sure that you have installed all components:
 
 Run `R_2_LD.R` in R-Studio
 
+You are expected to receive such demo result:
+
+<img alt="LD" src="http://kodomo.fbb.msu.ru/~pavel-kravchenko/GitHub/D-S.png">
+
+
 ## Contact me
 
 Feel free to contact me for any suggestions or critique.
