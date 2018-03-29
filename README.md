@@ -24,11 +24,13 @@ And ```tar``` Data.tar.gz</br></br>
 ```tar -xvf Data.tar.gz```</br></br>
 Command ```ls -1``` and make sure that you have all files in your directory
 ```
+Data.tar.gz
 LD_Drosophila.txt
+LD_Saccharomyces.txt
 R_2_plots.R
 README.md
 script.sh
-Data.tar.gz
+
 ```
 Now you are ready to start.
 Command 
