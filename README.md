@@ -20,17 +20,15 @@ First of all you have to ```clone``` this directory</br></br>
 ```git clone https://github.com/Pavel-Kravchenko/R-script-to-compare-two-LDs/```</br></br>
 Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns</br></br>
 ```cd R-script-to-compare-two-LDs```</br></br>
-
+And ```tar``` Data.tar.gz</br></br>
+```tar -xvf Data.tar.gz```</br></br>
 Command ```ls -1``` and make sure that you have all files in your directory
 ```
-alignment_reader.py
+LD_Drosophila.txt
+R_2_plots.R
 README.md
-R_plotter.R
-script1.sh
-script2.sh
-script3.sh
-Species_files
-Species_files.tar.gz
+script.sh
+Data.tar.gz
 ```
 Now you are ready to start.
 Command 
