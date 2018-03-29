@@ -1,7 +1,7 @@
 # R-script-to-compare-two-LDs
 A simple R script to compare two LD plots and to find the optimal Kendall`s` tau arrow 
 
-This pipeline is the part of bioengineering and bioinformatics faculty coursework
+This script is the part of bioengineering and bioinformatics faculty coursework
 
 ## Before you start
 
