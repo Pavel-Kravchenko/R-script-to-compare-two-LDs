@@ -18,7 +18,7 @@ Make sure that you have installed all components:
 
 First of all you have to ```clone``` this directory</br></br>
 ```git clone https://github.com/Pavel-Kravchenko/R-script-to-compare-two-LDs/```</br></br>
-Then ```cd``` in Evolution-of-mitochondrial-DNA-inheritance-patterns</br></br>
+Then ```cd``` in R-script-to-compare-two-LDs</br></br>
 ```cd R-script-to-compare-two-LDs```</br></br>
 And ```tar``` Data.tar.gz</br></br>
 ```tar -xvf Data.tar.gz```</br></br>
