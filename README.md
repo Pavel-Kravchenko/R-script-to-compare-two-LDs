@@ -47,6 +47,6 @@ You may want to variate the length of the arrow used in Kendall`s` correlation t
 
 Feel free to contact me for any suggestions or critique.
 
-Email: pavel-kravchenk0@yandex.ru 
+Email: pavel-kravchenk0[@]yandex[dot]ru
 
 Site: http://kodomo.fbb.msu.ru/~pavel-kravchenko/index.html 
